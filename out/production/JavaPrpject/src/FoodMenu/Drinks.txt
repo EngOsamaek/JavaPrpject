@@ -1,0 +1,8 @@
+0	Coca.Cola	Zero,aromatisé	5.5	500
+1	Fanta	apple,orange	5.5	350
+2	Sprite	limo,menthe	6.5	300
+3	orange.juice	Freshy.Cold.Orange.juice	4.5	90
+4	Pinaapple.juice	pineapple	1800	35
+5	water1/2	Mineral.water	3.5	1
+6	espresso	İtalian,Espresso,with,small,piece,İtalian,chooclate	8.5	90
+7	Latte	Latte	150.0	88

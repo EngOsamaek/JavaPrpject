@@ -1,0 +1,4 @@
+1	banana.split	chocolat,vanille,limon	35.5	400
+2	brownie.chocolat	vanilla,limon	15.5	390
+3	chocolate&mousse	chocolat,chocolat&vanille,chocolat,limon	19.5	290
+4	Kounafa	Kounafe	25	350

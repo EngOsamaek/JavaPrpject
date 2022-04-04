@@ -1,0 +1,4 @@
+1	Dips-&-dip	Dips-&-Dips	40	350
+2	Vegetable&ruit.Trays	Tasty&Fresh.fruits&vegitables	10.5	150
+3	Meal&Cheese.Trays	Meat:salami,pepperoni.Cheese:American,Swiss	12.5	150
+4	Cheese-cake	Cheese-cake	25.0	484

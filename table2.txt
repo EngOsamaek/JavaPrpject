@@ -1,0 +1,10 @@
+Arabic.steake	80
+spaghetti.italiano	66.5
+couscous.tunisian	50.5
+Coca.Cola	5.5
+Fanta	5.5
+Sprite	6.5
+Coca.Cola	5.5
+Fanta	5.5
+Sprite	6.5
+orange.juice	4.5

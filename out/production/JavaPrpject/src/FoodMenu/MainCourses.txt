@@ -1,0 +1,10 @@
+0	Arabic.steake Welldone.steake.with.rice 85.9 400
+1	 spaghetti.italiano mozarella.and.sea.food 66.5 520
+2	couscous.tunisian beef,vegetables,couscous,tomato.sauce	50.5	300
+3	 4.season.pizza 	tomato.sauce,onion,jambon  25.5	120
+4	  spicy.makarna  	 fish,tomato.sauce,baharat 60.99 320
+5	 O².special 	 1/2.cow.with.rice 500.5 9000
+6	beef.sadwich	beef,ketcap,tomato,chips 25.99 220
+7	 cheese.burger 	cheese,burger,ketcap,lite.sauce	33.99	320
+8	 sandwich.baguette 	chips,red.pepper,eggs,mayonez 40.99	120
+9	cheese.chips 	cheese,chips,mayonez,ketcap 15.99	210

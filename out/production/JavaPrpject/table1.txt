@@ -1,0 +1,3 @@
+Coca.Cola	5.5
+Fanta	5.5
+Sprite	6.5
